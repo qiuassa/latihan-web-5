@@ -1,0 +1,11 @@
+.kotak {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    border: 10px dashed rgb(39, 33, 116);  /* coba ubah */
+    padding: 5px;      /* coba ubah dari 20px */
+    margin: 50px;      /* coba ubah dari 15px */
+    text-align: center;
+    line-height: 100px;
+    border-radius: 0%;
+}
